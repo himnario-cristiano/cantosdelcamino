@@ -5,7 +5,7 @@ const urlsToCache = [
   './songs.js',               // <-- Agrega esta línea
   './manifest.json',
   'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap',
-  'https://i.postimg.cc/14xJ49F9/LOGO-Himnario-Cristiano.png'
+  'cantos-del-camino.png'
 ];
 
 // Instalación del Service Worker y guardado en caché
