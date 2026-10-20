@@ -46,7 +46,7 @@
         [data-theme="dark"] {
             /* TEMA OSCURO */
             --bg-main: #000021; 
-            --surface-color: rgba(0, 0, 0, 0.85); 
+            --surface-color: rgba(0, 0, 33, 0.85); 
             --surface-solid: #000021; 
             --text-main: #F8FAFC;
             --text-muted: #94A3B8;
@@ -253,7 +253,7 @@
         }
 
         /* Modales */
-        .modal-overlay { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: rgba(0, 0, 0, 0.6); display: flex; justify-content: center; align-items: center; z-index: 1000; opacity: 0; pointer-events: none; backdrop-filter: blur(4px); }
+        .modal-overlay { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: rgba(0, 0, 33, 0.6); display: flex; justify-content: center; align-items: center; z-index: 1000; opacity: 0; pointer-events: none; backdrop-filter: blur(4px); }
         .modal-overlay.show { opacity: 1; pointer-events: auto; }
         .modal-content { background: var(--surface-solid); padding: 30px 25px; border-radius: 16px; width: 90%; max-width: 400px; text-align: center; position: relative; transform: translateY(20px); box-shadow: var(--shadow-player); border: 1px solid var(--border-color); color: var(--text-main); max-height: 90vh; display: flex; flex-direction: column; }
         .modal-overlay.show .modal-content { transform: translateY(0); }
@@ -290,7 +290,7 @@
             position: absolute;
             top: 10px;
             left: 10px;
-            background: rgba(0,0,0,0.7);
+            background: rgba(0,0,33,0.7);
             color: #fff;
             padding: 4px 10px;
             border-radius: 6px;
@@ -820,7 +820,7 @@
             themeIcon.innerHTML = theme === 'dark' ? iconSun : iconMoon;
             const metaThemeColor = document.querySelector('meta[name="theme-color"]');
             if(metaThemeColor) {
-                metaThemeColor.setAttribute("content", theme === 'dark' ? "#000000" : "#F8FAFC");
+                metaThemeColor.setAttribute("content", theme === 'dark' ? "#000021" : "#F8FAFC");
             }
         }
 
