@@ -550,6 +550,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "051 - Con Alma Y Voz Te Alabaré",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/3lm6ty93nsq43lkte65ra/51-Con-Alma-Y-Voz-Te-Alabar-16_9.pdf?rlkey=q33pdhoojrqfr5s90i9ahxwbd&st=jvjm6vh0&dl=0",
+                src: "https://www.dropbox.com/scl/fi/i8pd5ppzyj20icmqrq8cg/51-CON-ALMA-Y-VOZ-TE-ALABARE.mp3?rlkey=o1bgb2bf6jvfu47tml8bdbjrq&st=1ou7sot6&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "052 - Dios Ha Hecho Todo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/du9r2i2mjpblryqjsi6du/52-DIOS-HA-HECHO-TODO.mp3?rlkey=xnomd9n8zelslbcezt4shxogb&st=5njm4z0i&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "053 - Santo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/rahb170rlpdk6djtaawr3/53-SANTO.mp3?rlkey=hm6zk9xgikgb3y45niv1zsxwa&st=3xacmud8&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "054 - Tierra Santa",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/gzyj9l2izzsuuom87nbt8/54-TIERRA-SANTA.mp3?rlkey=tfp67zp9agtpq761t49bxdj5k&st=af1ubric&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "055 - Vamos A Cantar",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/dltfvuo6815bda389580y/55-Vamos-A-Cantar-16_9.pdf?rlkey=36x40hw37k6midehxan321dbx&st=1vlt989u&dl=0",
+                src: "https://www.dropbox.com/scl/fi/nbs1lta4f5iutp8a1ype1/55-VAMOS-A-CANTAR.mp3?rlkey=ue809h0bduahipc3rbq5a5nza&st=qlswjw0o&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "056 - Inmensa Gracia",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/sdlvi5o6o88de5w7kz151/56-INMENSA-GRACIA.mp3?rlkey=tup70hgiafdp3howv3y0cyoks&st=ox1yn0dq&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "057 - Canta Al Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/k4cmth46izjqn760yfjg9/57-Canta-Al-Se-or-16_9.pdf?rlkey=wx31m7sr9zpiirikcucno93hm&st=la0tu29o&dl=0",
+                src: "https://www.dropbox.com/scl/fi/77ypfmokqgcq3z02sht08/57-CANTA-AL-SE-OR.mp3?rlkey=uxxe61yrxrnryrhzi4rk00zlt&st=zont1phm&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "058 - Gloria A Ti, Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/p8tiwxgx93knt1wqgbg0k/58-GLORIA-A-TI-SE-OR.mp3?rlkey=c0utrl04l469b6uxa6qtbi2tg&st=gw6t6np3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "059 - Al Salvador Jesús",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/hlzlxjl4q5w70s7ivtbz6/59-Al-Salvador-Jes-s-16_9.pdf?rlkey=34to90dykrhelda5wv3lcjs0m&st=wp5h2u54&dl=0",
+                src: "https://www.dropbox.com/scl/fi/u6bejpi10s8copyy1m32f/59-AL-SALVADOR-JESUS.mp3?rlkey=gjqdvyl2uek2c7i347zvbj0wq&st=icsicqm1&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "060 - A Ti, El Alfa Y El Omega",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/8271jlio2d50lplz4u0lh/60-A-TI-EL-ALFA-Y-LA-OMEGA.mp3?rlkey=no95bi751x4ie8silql6pxko2&st=8b42twbk&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
