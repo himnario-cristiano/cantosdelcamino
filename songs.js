@@ -220,6 +220,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "021 - Entraré Por Sus Puertas",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/9fvhgfoltx6l5pou5qof2/21-ENTRARE-POR-SUS-PUERTAS.mp3?rlkey=cl0ly37lhmig1goobfzon99yk&st=dxdw1nrh&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "022 - No Hay Dios Tan Grande Como Tu",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/26iayollt2p7kjj7vnrfc/22-No-Hay-Dios-Tan-Grande-Como-T-16_9.pdf?rlkey=aht1l3utkx0wycgjf4g098vp0&st=7pq041jh&dl=0",
+                src: "https://www.dropbox.com/scl/fi/f37rf6u57l2vgxei6fwvv/22-NO-HAY-DIOS-TAN-GRANDE-COMO-TU.mp3?rlkey=r71u4miq8xqn4lgzm4yru8k7l&st=ddnm44hb&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "023 - Levantaos, Bendecid",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/5tp3jzpaftkx6u67w6ij0/23-LEVANTAOS-BENDECID.mp3?rlkey=08myzsnc8ak1fmykmekbj90fu&st=s4f3cl9c&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "024 - Es Exaltado",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/jaaud1jsaqfzchhxc4qxy/24-ES-EXALTADO.mp3?rlkey=psd895tnpfzmjc90noyfzqf59&st=fj2licc2&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "025 - Padre, Tu Palabra Es",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/1b4wvnx1aadgxcgm7kmms/25-Padre-Tu-Palabra-Es-16_9.pdf?rlkey=cwv6pnchn2heq10pa6yvnfnym&st=5lsctnit&dl=0",
+                src: "https://www.dropbox.com/scl/fi/4naucserqa5vkfbfdqjgq/25-PADRE-TU-PALABRA.mp3?rlkey=si6xh3knmhvw1wijyh0tul934&st=7jjp9tob&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "026 - Mi Ser Está En Ti Dios",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/3d117uxmb7at11zt46zfv/26-MI-SER-ESTA-EN-TI-DIOS.mp3?rlkey=2enndyy42bxrb2634r8565946&st=axnuytbm&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "027 - Al Dios De Abraham, Loor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ckiwldlx6wvmq4eu3sob6/27-Al-Dios-De-Abraham-Loor-16_9.pdf?rlkey=ar16uzedpbzd6h4eg9p4k6ucr&st=zg3up2kn&dl=0",
+                src: "https://www.dropbox.com/scl/fi/jay59yv8f0ff85enn5gow/27-AL-DIOS-DE-ABRAHAM-LOOR.mp3?rlkey=q9g6vtjxqd4a4tumb9ghi3up1&st=vsk7a0ju&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "028 - Por El Cielo, La Estrella Y El Sol",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/6ac3128ea41iwptxyp4o2/28-Por-El-Cielo-La-Estrella-Y-El-sol-16_9.pdf?rlkey=b7o7n13272x3apfsqy5wf9xp1&st=z8pdb40j&dl=0",
+                src: "https://www.dropbox.com/scl/fi/1dj0cenzokowmcm5nhh86/28-POR-EL-CIELO-LA-ESTRELLA-Y-EL-SOL.mp3?rlkey=lf9onpwdkiv5gm0b2c3yx2g6d&st=owec7lq9&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "029 - Grande Es Tu Fidelidad",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/l6erxk3r7o4l4fhr36e2j/29-Grande-Es-Tu-Fidelidad-16_9.pdf?rlkey=javanslx73nunhq8wfcy525s2&st=saaclj09&dl=0",
+                src: "https://www.dropbox.com/scl/fi/c33stb2d5obcfykwnbq62/29-GRANDE-ES-TU-FIDELIDAD.mp3?rlkey=f9whlq1c17hl177rr737q4ba5&st=9qoor678&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "030 - Gracias Dios - Mabry",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/qc2dole8vgky761m2k3je/30-GRACIAS-DIOS.mp3?rlkey=u9qr6ztb6lhsv6cix2hqlpvnh&st=olj826a9&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
