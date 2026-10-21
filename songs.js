@@ -330,6 +330,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "031 - Gracias Dios - Jernigan",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/eht9ylv38fhaivgl5agtp/31-GRACIAS-DIOS.mp3?rlkey=hs4w1p18vwx3qef8vl2r3bf4e&st=o1y57028&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "032 - Gracias Por Todas Las Mañanas",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/fc7xbn53oye6fbbi68xje/32-Gracias-Por-Todas-Las-Ma-anas-16_9.pdf?rlkey=kkujtx6358kehkizy75neguhb&st=kvuofjqk&dl=0",
+                src: "https://www.dropbox.com/scl/fi/y3n5fzmco1l5gidbamawe/32-GRACIAS-POR-TODAS-LAS-MA-ANAS.mp3?rlkey=8nmjt9ewfcm3fn5hb5x8dqe24&st=r0f348qw&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "033 - Dios De Mi Vida",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/nl8wmh15j0hadyjvie8wm/33-DIOS-DE-MI-VIDA.mp3?rlkey=wxp7hhg14o6waxsy6ui8i7s3t&st=tclgii5w&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "034 - Dios Es Amor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/lc81x1cigo3uqip0l74up/34-DIOS-ES-AMOR.mp3?rlkey=nn2j20ppb0xks2mrt1vx50ni3&st=tvd7ytm3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "035 - Al Rey Eterno",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/7e8vnrpeddc4jvruz6a0s/35-Al-Rey-Eterno-16_9.pdf?rlkey=ydpq500gxnvx3ys2h9etw3u8s&st=vqpkb0j2&dl=0",
+                src: "https://www.dropbox.com/scl/fi/gc3qrsg6js27jwim2t5ch/35-AL-REY-ETERNO.mp3?rlkey=4mhj322esginrn3vl41z48a6y&st=rmmlo67w&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "036 - Alabanza",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/rasqf9dh4khfdlh6but84/36-ALABANZA.mp3?rlkey=ndduvl6ar90zkggobfnlsmzxv&st=5o37ffka&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "037 - A Jehová Invocaré",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/4596mnime4oea7sfc4cxc/37-A-JEHOVA-INVOCARE.mp3?rlkey=rib3d4ylua51c5zp6gy6qrxxu&st=2vtugsb5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "038 - Dios Mio",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ay5gzjt2b1syv81mc42ho/38-Dios-M-o-16_9.pdf?rlkey=yvqv5y13n6jf3kb54mr0swob5&st=35ppu2bq&dl=0",
+                src: "https://www.dropbox.com/scl/fi/8qmv7ejra5hr6ciwmzxpk/38-DIOS-MIO.mp3?rlkey=82855kx56in0hj1pe3cj0s5ho&st=w1kbp1vr&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "039 - Con Los Ángeles",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/99d6wcmwhq2vmcvfmqbu8/39-Con-Los-ngeles-16_9.pdf?rlkey=z34eqnltsw36af2dyuffzwig8&st=vost39vv&dl=0",
+                src: "https://www.dropbox.com/scl/fi/wmmx5lm2fy9mbmvk58w7b/39-CON-LOS-ANGELES.mp3?rlkey=cfagubxaociblsxz17hs8dy4v&st=y5a227vx&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "040 - Demos Gracias",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/warp4gg2bpngkqf96pw8p/40-DEMOS-GRACIAS-AL-SE-OR.mp3?rlkey=7vr9msmtoqpt96jtsb2iz8t26&st=6emqsz80&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
