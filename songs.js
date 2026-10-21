@@ -770,6 +770,336 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "071 - Cristo, Te Alabamos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/6n7pod5e4xybv95v4eb7e/71-CRISTO-TE-ALABAMOS.mp3?rlkey=4ex5lm025qual5zpnxldgxlz9&st=sbqdwd3v&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "072 - Señor, Bello Eres Tú",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/b7tq2y6edfd2d10e5sjwr/72-SE-OR-BELLO-ERES-TU.mp3?rlkey=ea5ix2mf8x8fl7q2vb9k6qdr6&st=xolghkwy&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "073 - Glorificaremos Al Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/all3shck5nrlz8cm0xl09/73-GLORIFICAREMOS-AL-SE-OR.mp3?rlkey=wllw6fmn147v2yvt24unzcy3u&st=sorz1prj&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "074 - ¡Majestad!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/3a5yiwdg0u4v7gg71v3r2/74-MAJESTAD.mp3?rlkey=sdurnwwqi53krcl0opup8ktjs&st=n40091hf&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "075 - ¡Hosanna En El Cielo!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/giu0ys01m5hylehv4xvmk/75-Hosanna-En-El-Cielo-16_9.pdf?rlkey=6j849xax9pvgr73ko5ivh0ycd&st=1bcxj139&dl=0",
+                src: "https://www.dropbox.com/scl/fi/g9hvamlr3t07ijetvt8lq/75-HOSANNA-EN-EL-CIELO.mp3?rlkey=3y6b4u5k5do5vcfa0jbhgsqpn&st=c3pmstw5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "076 - Más Bello Que La Plata",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/38vtn7ggqup5g6kkb0nk1/76-MAS-BELLO-QUE-LA-PLATA.mp3?rlkey=kgx5bw513gwococzzkdg2ti9w&st=1uw1hb0f&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "077 - Alabad A Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/7z83yr99k2z5l3j7vqjby/77-ALABAD-A-CRISTO.mp3?rlkey=qm78g0z4p7s3tad00rql4gge1&st=6i1k5ifc&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "078 - Maravilloso Es Él",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/0ygh7h3r6ottjbgu7ghpf/78-MARAVILLOSO-ES-EL.mp3?rlkey=htgl3vy57qg7gjpdiclb9q6nz&st=ka027kei&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "079 - Mi Ser Alaba Al Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/srtnraj4rqxj0e6jb43zy/79-MI-SER-ALABA-AL-SE-OR.mp3?rlkey=jt8m0o2vycdvcnoozckoqj8zh&st=mw02yuqn&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "080 - Loores Dad A Cristo El Rey",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ewj7bepbgltqrh72thf1y/80-Loores-Dad-Al-Cristo-Rey-16_9.pdf?rlkey=n1bpabu3f69xm89lp1bhizpkc&st=wiieem72&dl=0",
+                src: "https://www.dropbox.com/scl/fi/7e68428t6p91v5hgyi83p/80-LOORES-DAD-A-CRISTO-EL-REY.mp3?rlkey=cwvr6iahfs7ibetl353vxo9o3&st=9855w94u&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "081 - Nombre Sobre Todo Nombre",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ptrtma9p1d8rkvsuftmi2/81-Nombre-Sobre-Todo-Nombre-16_9.pdf?rlkey=gs63uhushbnl4jy7c66pztdla&st=bk6o3j7c&dl=0",
+                src: "https://www.dropbox.com/scl/fi/9h127eweglepthabrfb0h/81-NOMBRE-SOBRE-TODO-NOMBRE.mp3?rlkey=f6mns924n07ph20is24m1b6xf&st=njcuueem&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "082 - Su Nombre Es Maravilloso",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/pdhunst7s0mhi1vtkvxdv/82-Su-Nombre-Es-Maravilloso-16_9.pdf?rlkey=0ez10fxmq249i6bm6aowtq37g&st=xb94486v&dl=0",
+                src: "https://www.dropbox.com/scl/fi/0p647a37hda975famm6xf/82-SU-NOMBRE-ES-MARAVILLOSO.mp3?rlkey=k0inlqaolzm0elb2gi6zavcec&st=snnyqfpz&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "083 - Dad Gloria Al Ungido",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/yjyngs0u4j7zunb3qe50g/83-Dad-Gloria-Al-Ungido-16_9.pdf?rlkey=ijgu7n01q936nydt6d9w69ao5&st=vtmo15o8&dl=0",
+                src: "https://www.dropbox.com/scl/fi/wqhf5hudqwocok3vj2sjq/83-DAD-GLORIA-AL-UNGIDO.mp3?rlkey=xalahj8lwwjms57ccquqz7itb&st=t0v0u6na&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "084 - De Los Cielos Descendió",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/1pvhhd33ssb333zbhbudt/84-De-Los-Cielos-Descendi-16_9.pdf?rlkey=p1yxwviu558097quu3uty3kjd&st=r8yrc3tn&dl=0",
+                src: "https://www.dropbox.com/scl/fi/mk9h0zf0pg8990m851nkv/84-DE-LOS-CIELOS-DESCENDIO.mp3?rlkey=linsyj77vkrm918ipvusrgwqi&st=ahtr5cib&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "085 - Canta Alabanzas Al Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/0yxgon6yifqis4k5exyzg/85-CANTA-ALABANZAS-AL-SE-OR.mp3?rlkey=8vjoxwpriebfky2abjgezno01&st=jgvpe4o4&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "086 - Como El Ciervo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/qlasijikeu2fk1rerou4v/86-COMO-EL-CIERVO.mp3?rlkey=8apitcsu9pz331wv3ebbjwezp&st=rpgzy3z7&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "087 - Alabaré",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/2j5jpz3nwa5bgmghzyb1u/87-Alabar-16_9.pdf?rlkey=uyxo69c2yj9ayzk0l3r8j1jd4&st=wbl0o5k2&dl=0",
+                src: "https://www.dropbox.com/scl/fi/5lupibfibn4xcks5l1wxq/87-ALABARE.mp3?rlkey=w200eti9171ndyr1lfegpbq5r&st=q0a8e6lb&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "088 - Canten Amen",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/jtd6j0wndw15mnkiuc8y3/88-Canten-am-n-am-n-16_9.pdf?rlkey=g4rvpujzjwegc0qe43ts276w9&st=yp9qvo3m&dl=0",
+                src: "https://www.dropbox.com/scl/fi/r7pjwjr0vxcm1ynpxyx50/88-CANTEN-AMEN-AMEN.mp3?rlkey=144v53bs6s990v9k74ghmwdvu&st=i846sc1m&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "089 - Aleluya, Gloria A Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/u83hclpn6bknewo1ezpxq/89-Aleluya-Gloria-A-Cristo-16_9.pdf?rlkey=3z43vbve2p5yrgo94vgb8zdc5&st=ce7uhjp3&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3pzbx8m755mcunzyzvkmf/89-ALELUYA-GLORIA-A-CRISTO.mp3?rlkey=fkize5q4zv26e2yma9enm6bdb&st=yi0kr6l9&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "090 - Alabanzas Dad A Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/babbgb62wdnep3gj1j7cn/90-Alabanzas-Dad-A-Cristo-16_9.pdf?rlkey=9kgses42mg2ntwyte6rbrnpm9&st=wnrdjc2p&dl=0",
+                src: "https://www.dropbox.com/scl/fi/zthuw2z1j9m46lgg7fob1/90-ALABANZAS-DAD-A-CRISTO.mp3?rlkey=d39wkfi0isbyy5c890u2e83vd&st=l0sr6ssj&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "091 - ¡Gloria ¡Gloria!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/mj42t5t8cpru23xe937q2/91-Gloria-Gloria-16_9.pdf?rlkey=dslv4ovlq0gcbpk4gkpsfky9v&st=pr4z48ib&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ccoedosdcgcc7lbzu6134/91-GLORIA-GLORIA.mp3?rlkey=4x0n663k25axk2b4dliwznrku&st=gtwnbow8&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "092 - Yo Amo A Jesucristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/92cqonfulli5gcnbtm8pn/92-Yo-Amo-A-Jesucristo-16_9.pdf?rlkey=8rnr3r25sipgc2nfy3gc4o5v5&st=qg1ytefv&dl=0",
+                src: "https://www.dropbox.com/scl/fi/lzbryggxfr7ymc0eznwad/92-YO-AMO-A-JESUCRISTO.mp3?rlkey=yvlebu2n72tkv4dcbvemmimgn&st=u4k4f46w&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "093 - Al Mundo Gozo Proclamad",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/gd9zdbcac85pof8yc4r88/93-Al-Mundo-Gozo-Proclamad-16_9.pdf?rlkey=bn8bxbjemt3wr4s7di1ige8v5&st=k4n93v8j&dl=0",
+                src: "https://www.dropbox.com/scl/fi/t1uxt0f48fzyq382jeh82/93-AL-MUNDO-GOZO-PROCLAMAD.mp3?rlkey=xz8tcozqbxscbvbbyfy5qq78z&st=v38dyoug&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "094 - Jesús Es El Mesías",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/bfzjdm8mya49oypaw1o5q/94-JESUS-ES-EL-MESIAS.mp3?rlkey=vubp27zynbppk6jyav9pkwqhw&st=wf9kcmhi&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "095 - El Ciego Bartimeo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/fco3elloft8rhuolnu98n/95-EL-CIEGO-BARTIMEO.mp3?rlkey=lxggfg2c9w912ue91dz3l5ltu&st=cr2rzhc0&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "096 - Y Tú Belén",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/afpwxn9ijxsv59qcclr2j/96-Y-TU-BELEN.mp3?rlkey=wd0ygo4nufgwm9dt9ebe1l66h&st=mrd18i17&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "097 - Ven Jesús Muy Esperado",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/lhk0azyangexx6ehqu502/97-Ven-Jes-s-Muy-Esperado-16_9.pdf?rlkey=azflw763vnv9aolpildwtybzw&st=zsobw405&dl=0",
+                src: "https://www.dropbox.com/scl/fi/giyle0lhgw1hqd7hopncf/97-VEN-JESUS-MUY-ESPERADO.mp3?rlkey=2dcflndj5llzox5k6hm8kd0c1&st=it6i2jlt&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "098 - Emanuel",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/9isn6k9myryxnrrd3hcma/98-EMANUEL.mp3?rlkey=hbjens0kzb9xyje79ana4yiff&st=gtig7i2h&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "099 - Oíd Un Son En Alta Esfera",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/wwmmu91qmzbklp42olo4o/99-O-d-Un-Son-En-Alta-Esfera-16_9.pdf?rlkey=wck9dmriymm6lmzm86sfcjr9m&st=v2fgc5bh&dl=0",
+                src: "https://www.dropbox.com/scl/fi/jkatb2dn65md7au5xkpis/99-OID-UN-SON-EN-ALTA-ESFERA.mp3?rlkey=ymtqz7sw488ac8cr331s6kff6&st=ulu4yztv&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "100 - Señor Amoroso",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/eysz5ysccgjymvgx98ohv/100-Se-or-Amoroso-16_9.pdf?rlkey=trr0uz9sohuc5z9pikzu8qv9z&st=q2mevgz8&dl=0",
+                src: "https://www.dropbox.com/scl/fi/5p214g415pm5760thtkmu/100-SE-OR-AMOROSO.mp3?rlkey=0meh3ws59n6ul4nadde98cznn&st=tlwapdhk&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
