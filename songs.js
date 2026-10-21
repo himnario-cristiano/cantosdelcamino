@@ -660,6 +660,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "061 - Sin Ti",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/8f9n5dqwhgrhawyi1p22d/61-Sin-Ti-16_9.pdf?rlkey=u0thjxo95z75z6du7t7bfavpa&st=3b1m0cud&dl=0",
+                src: "https://www.dropbox.com/scl/fi/tqstm2mlgl47a3zbh6ue6/61-SIN-TI.mp3?rlkey=icnbigrug3jbh225q94ly7odm&st=kt9s89m7&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "062 - Bello Mi Cristo Es",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/gd9h5omjuuz1z8agv4c4b/62-BELLO-MI-CRISTO-ES.mp3?rlkey=p471u30y3d2zzz9s2684i44ft&st=6pn7fez5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "063 - Sumo Sacerdote",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ackqh4oc7u5yhsier7tcv/63-Sumo-Sacerdote-16_9.pdf?rlkey=qhpickbioiiew59u8owch63he&st=no7jgolp&dl=0",
+                src: "https://www.dropbox.com/scl/fi/912vjg51w6mxsws3nv6pd/63-SUMO-SACERDOTE.mp3?rlkey=bsu16gptydv9ubkdcbfox38i2&st=42bde62p&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "064 - Glorioso Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/cq5t5i7fv1hms77vskyt5/64-Glorioso-Cristo-16_9.pdf?rlkey=2iboflyssknd5u6x9sxtfqndr&st=k2vub6y4&dl=0",
+                src: "https://www.dropbox.com/scl/fi/rq2u9yfxusac18kl30n8p/64-GLORIOSO-CRISTO.mp3?rlkey=r3t8yoyivypre7wfucjo2wqng&st=k3esesv5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "065 - Te Vengo A Decir",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/pqs626stvfr5gbr8nro7x/65-Te-Vengo-a-Decir-16_9.pdf?rlkey=4wttxay1qeusmc2bgtsasn927&st=iq3dcfpu&dl=0",
+                src: "https://www.dropbox.com/scl/fi/iusy146ms0osoz3glli52/65-TE-VENGO-A-DECIR.mp3?rlkey=0e52rlq7c3vl93c5vtv2lg14c&st=ejvtutku&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "066 - Eres Mi Fuerza",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/u6f45f6q428n3x7wpz8dk/66-ERES-MI-FUERZA.mp3?rlkey=088g5kj34kbucphy86bgg395v&st=btkq2f0t&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "067 - Pon Tus Ojos En Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/i5e5ik6udw17dyp5gmo9u/67-PON-TUS-OJOS-EN-CRISTO.mp3?rlkey=zexbol6g8dqu5n030vn1sz60s&st=voebhmju&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "068 - Él Es Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/3kmk8u5td707y8e881ksy/68-l-Es-Se-or-16_9.pdf?rlkey=8u71vxwcqwi6l8s9fom2ahvrr&st=jy1mckps&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ac1y4a8ebrgon7s6kgbab/68-EL-ES-SE-OR.mp3?rlkey=mnj18seq5z5sy5gy2sw0kvswg&st=ihu27sn2&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "069 - Cristo, Nombre Glorioso",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/on1325wburfsw3e45yvi9/69-CRISTO-NOMBRE-GLORIOSO.mp3?rlkey=wv2h4oadi0rfmsbgs90siim5x&st=zg4o3w15&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "070 - Hay Un Redentor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/ubbnd5l55tncc9k0hazns/70-HAY-UN-REDENTOR.mp3?rlkey=qbn0y71qorw3afrg8rhuicbph&st=mby1eb7c&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
