@@ -110,6 +110,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "011 - El Firmamento De Esplendor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/bcidei1gsjv6mjm3ooil0/11-El-Firmamento-De-Esplendor-16_9.pdf?rlkey=m72b1az3kw79csnfphu5qhxxu&st=5gkiqi40&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ghc44fwhqvhzjbx6md0ss/11-EL-FIRMAMENTO-DE-EXPLENDOR.mp3?rlkey=4yr2a3e7dt5rhc4kgcpwg6d37&st=h4awvonc&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "012 - El Mundo Entero Es Del Padre",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/13b5htah1qy4919dhqaf0/12-El-Mundo-entero-Es-Del-Padre-16_9.pdf?rlkey=f5s5h6u352urc4gby727zp1ju&st=gz5fs8qv&dl=0",
+                src: "https://www.dropbox.com/scl/fi/fxj806xdxsacf4wcmrom7/12-EL-MUNDO-ENTERO-ES-DEL-PADRE.mp3?rlkey=4o8h69olsvm7693mf706is29n&st=5njllmpr&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "013 - Gloria A La Trinidad",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/gw7l5m508snj6b1kbgii1/13-Gloria-a-La-Trinidad-16_9.pdf?rlkey=7rzmoz1e6qpd3lxemq25z8nul&st=t7086m7y&dl=0",
+                src: "https://www.dropbox.com/scl/fi/gez6ft9i3jebx9z4lip1g/13-GLORIA-A-LA-TRINIDAD.mp3?rlkey=b1p0qxzmljsn61fqjg3i2sx0p&st=zuq73o4i&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "014 - En El Nombre De Dios",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/ld7ar74lm947l7u5dm1fv/14-EN-EL-NOMBRE-DE-DIOS.mp3?rlkey=7wbyji8qe1eoevvz0f02aqi17&st=klygkzzv&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "015 - Tu Fidelidad Es Grande",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/41su4yxvasa9rd2jg6617/15-TU-FIDELIDAD-ES-GRANDE.mp3?rlkey=xzokvf91z3y8jyvs08mls987c&st=1gnfqnzn&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "016 - El Nombre De Dios",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/sjpbcct5r27d3pb90dex1/16-El-Nombre-De-Dios-16_9.pdf?rlkey=8qpcj82pat21pnfvy73d9gu31&st=6hqzk9l9&dl=0",
+                src: "https://www.dropbox.com/scl/fi/6kmka15dfy27jjktuqjvj/16-EL-NOMBRE-DE-DIOS.mp3?rlkey=hr9w5slpf1m49s611my5ly2q7&st=2svx9ajb&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "017 - En Momentos Así",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/z9akg0effhczc4rgbm74q/17-EN-MOMENTOS-ASI.mp3?rlkey=o2eqtxenfouun8wpzuvh3nbnx&st=7cq0eqe8&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "018 - Seas Exaltado",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/otbynvbrtgavi4xjdu3fg/18-SEAS-EXALTADO.mp3?rlkey=0g08m6hhq6xsesbkb2zxtvl4o&st=hmamv68h&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "019 - Doxologia",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/a3v8k2icrcrc5aoe15wlc/19-A-Dios-el-Padre-16_9.pdf?rlkey=y90ppipwc96ql6yzzrca8776x&st=8lcb4dp3&dl=0",
+                src: "https://www.dropbox.com/scl/fi/sby7n67b0mkv7yi12paqm/19-A-DIOS-EL-PADRE-DOXOLOGIA.mp3?rlkey=ch9tg3w5urogf5crdwgkcrr4h&st=0d3dnr6h&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "020 - Enaltecido Tú Eres",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/oztuh5e0uv4kahy8hln04/20-Enaltecido-T-Eres-16_9.pdf?rlkey=yxixdxexutnhpo0ejm1eb081w&st=t4l7hnbn&dl=0",
+                src: "https://www.dropbox.com/scl/fi/le8dry4ique9ll0h1usnt/20-ENALTECIDO-TU-ERES.mp3?rlkey=2ugrl96zgkt7h7ca7kk33n0to&st=9pv57x49&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
