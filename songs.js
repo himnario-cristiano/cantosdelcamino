@@ -440,6 +440,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "041 - Alabemos Al Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/egumpa3pitj81k6816h9k/41-ALABEMOS-AL-SE-OR.mp3?rlkey=p2tix7kbmimug5k5si4xn9mji&st=tfby5axo&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "042 - Jubilosos, Te Adoramos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/41dhe8awmjcmiy2qpprt7/42-Jubilosos-Te-Adoramos-Figuras.pdf?rlkey=zonpey5gzhkbvosyxzyhx5hqk&st=i6lt8q2m&dl=0",
+                src: "https://www.dropbox.com/scl/fi/vm3sxe4y0tc3d69haroef/42-JUBILOSOS-TE-ADORAMOS.mp3?rlkey=xplgs1ub90m6p88mgtonwf606&st=i6j447t6&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "043 - Cuán Grande Es Él",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/l1jbb8wdiopegqmzqzzla/43-CUAN-GRANDE-ES-EL.mp3?rlkey=54ddw3i82n53bfqo38kl5aakp&st=0r2miz94&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "044 - Dad Gracias",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/x0r8bglb2c6lzwp931zgr/44-DAD-GRACIAS.mp3?rlkey=emj88zrjsdzfx1fkinemcju7g&st=1h790y89&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "045 - Cuando Miro Los Claros Cielos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/6uf9vsbbphz187v2y5j9b/45-Cuando-Miro-Los-Claros-Cielos-16_9.pdf?rlkey=tkxwp8ue9ti5auiixp2b4tntc&st=imgsfcgs&dl=0",
+                src: "https://www.dropbox.com/scl/fi/v9l5isszqsesb3qw8hhiu/45-CUANDO-MIRO-LOS-CLAROS-CIELOS.mp3?rlkey=fhdz61iow1jlnowg9bja05nlx&st=6qrj0edt&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "046 - Te Amo, Rey",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/96x5c3sc24uo302hak8rw/46-TE-AMO-REY.mp3?rlkey=2t4qmgompo21kw99u0kee42pd&st=60glcdk5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "047 - Cantad Alegres Al Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/zxztbtrveclc7hjpja0ha/47-Cantad-Alegres-Al-Se-or-16_9.pdf?rlkey=ifp2a7tdif27gklhivd1jyl5l&st=ei2xon0f&dl=0",
+                src: "https://www.dropbox.com/scl/fi/2ym39x16rzu01qqtdpf6m/47-CANTAD-ALEGRES-AL-SE-OR.mp3?rlkey=66ozdy5dwxkgolucokrzfi6aw&st=vqyy2jcs&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "048 - Cantemos Al Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/v1ti7lkc40vn0xp90r3ye/48-CANTEMOS-AL-SE-OR.mp3?rlkey=graukdizuzxdxi98hhro5b1z6&st=5ajqweuo&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "049 - Te Adoro, Poderoso Dios",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/qnsv3adf6qvs57firafim/49-TE-ADORO-PODEROSO-DIOS.mp3?rlkey=sf8tl2kb1j9awgdj89wsmcrn2&st=gry6w2wb&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "050 - Grande Es Lo Que Has Hecho",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/37c5klk3us7vf17ztg98t/50-GRANDE-ES-LO-QUE-HAS-HECHO.mp3?rlkey=4rnnbktp2xkslyg3r4sady5gh&st=gwwd09oz&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
