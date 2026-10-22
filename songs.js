@@ -1661,6 +1661,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "151 - Comprado Con Sangre Por Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/c2b6g4oqh0v9petgmm5jr/151-Comprado-Con-Sangre-Por-Cristo-16_9.pdf?rlkey=u8liiwdl9zwr52cn9chu5021o&st=6c7flrws&dl=0",
+                src: "https://www.dropbox.com/scl/fi/5pjmnqji0apgakltdmvmt/151-COMPRADO-CON-SANGRE-POR-CRISTO.mp3?rlkey=4pl7czmmiqa8sqhrmdvkguiln&st=wr1bladi&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "152 - Cristo Es La Peña De Horeb",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/8chrkj1hf3vthpdht4pni/152-Cristo-Es-La-Pe-a-De-Horeb-16_9.pdf?rlkey=xjc49in0rmusj1yx539f6q5mo&st=5awxwkxy&dl=0",
+                src: "https://www.dropbox.com/scl/fi/qqr33nih59ufhek1g1zrc/152-CRISTO-ES-LA-PE-A-DE-HOREB.mp3?rlkey=0ucqyu5k9hgk9tt8fpeicw3cf&st=953kk3j7&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "153 - Tal Como Soy",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/v4gmf7qeu71mrfivz3tid/153-Tal-Como-Soy-16_9.pdf?rlkey=ykt35tj049f0bw5iisttl3k2x&st=6148v7b5&dl=0",
+                src: "https://www.dropbox.com/scl/fi/1662xleot9kv50rxix3af/153-TAL-COMO-SOY.mp3?rlkey=piv0t3myvk96y3f3ovdcgyv1v&st=308zk6rn&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "154 - Consolaos, Pueblo Mío",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/sc0mhp9iwhvpcyri9ugtb/154-CONSOLAOS-PUEBLO-MIO.mp3?rlkey=mhqatyr5z96o98u7eg4bbr8ga&st=8k1ca8oi&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "155 - Con Voz Benigna",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/sbzgi3ivlorw0ebkpa7t0/155-Con-Voz-Benigna-16_9.pdf?rlkey=rjhqng1dcs2r6hxu0gmk54qbn&st=isnmnudb&dl=0",
+                src: "https://www.dropbox.com/scl/fi/4bjl7fn9l8cxppp65fd5a/155-CON-VOZ-BENIGNA.mp3?rlkey=y20vhybe6c47jj8g2t2r4x69s&st=6n343wle&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "156 - Gracia admirable",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/xltvcxst08d356p75d92w/156-Gracia-Admirable-16_9.pdf?rlkey=zjufr77a1q6zns1qujpgfeqv4&st=w2fr5cu7&dl=0",
+                src: "https://www.dropbox.com/scl/fi/dcoabekzwcakcegkzcab0/156-GRACIA-ADMIRABLE.mp3?rlkey=jda5ii3h4ezboijixd1ppx7e3&st=ro11f1qg&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "157 - He Decidido Seguir A Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/1c5gm9vl2ko7av7sc4nxl/157-He-Decidido-Seguir-A-Cristo-16_9.pdf?rlkey=ytmrazpi0uumpl0n2cu9cvn04&st=awdqxhuo&dl=0",
+                src: "https://www.dropbox.com/scl/fi/nafdv8qg7lan2kxp8ncej/157-HE-DECIDIDO-SEGUIR-A-CRISTO.mp3?rlkey=zmacyavjjr97sqgy3obyz4uqv&st=3g8dmj4j&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "158 - Cristo Es Mi Dulce Salvador",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/0t4utyiet9osfvhrdjbe1/158-Cristo-Es-Mi-Dulce-Salvador-16_9.pdf?rlkey=zb0uxkmnpwn31rmuazsdrakc3&st=zbhg1y72&dl=0",
+                src: "https://www.dropbox.com/scl/fi/mfqidx664mbweevlagukr/158-CRISTO-ES-MI-DULCE-SALVADOR.mp3?rlkey=tqiut6l4xw2lvc3zc726vxpc4&st=ky3a2yac&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "159 - Cuán Tiernamente",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/d7x3v6ggirot1il416r29/159-Cu-n-Tiernamente-16_9.pdf?rlkey=3r1evt48ia0lc2ij7ng7em6r0&st=82rthusz&dl=0",
+                src: "https://www.dropbox.com/scl/fi/lbu8kkapiaym91hq0k9p0/159-CUAN-TIERNAMENTE.mp3?rlkey=07b2tdjlhwxybd3tjittbq5hk&st=hkr1rb4q&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "160 - Jesús Me Incluye A Mí",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/c0e43rzfdq4c28x5ht6d6/160-Jes-s-Me-Incluye-A-M-16_9.pdf?rlkey=yze81rcr44xcx03w60jaqqvdj&st=3rgr4icd&dl=0",
+                src: "https://www.dropbox.com/scl/fi/hprh7apgjsz9i72sh9h9d/160-JESUS-ME-INCLUYE-A-MI.mp3?rlkey=ptnwmhisb7f4s4prxv0r1rjra&st=hkahrc68&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
