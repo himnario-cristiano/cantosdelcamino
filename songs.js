@@ -1100,6 +1100,226 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "101 - Oh Ven, Bendito Emanuel",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/7e4xlp86ifcng0uzzhcjs/101-OH-VEN-BENDITO-EMANUEL.mp3?rlkey=i4sfmv8o4ej3oicu22mco18l5&st=v495anbu&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "102 - Es Jesús, ¡Qué Bella Historia!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/qcg1s45s00e7l6vaqwblh/102-ES-JESUS-QUE-BELLA-HISTORIA.mp3?rlkey=zpzvgwunxdrynf8035y8qqpbl&st=nqtldlzj&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "103 - ¡Maestro, Ruge La Tempestad!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/gg0i2pabk1zw922b46m7f/103-Maestro-Ruge-La-tempestad-16_9.pdf?rlkey=17nc9m21e9r6626v4d1e7ybf3&st=bmbakc6g&dl=0",
+                src: "https://www.dropbox.com/scl/fi/bqnrpcw5wdvfszp7i50tw/103-MAESTRO-RUGE-LA-TEMPESTAD.mp3?rlkey=ru1kc4z01ic5p3mkxwwujs9im&st=g6nqby32&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "104 - Venid, Fieles Todos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/ide4h2xq56bc5x11bnr7k/104-VENID-FIELES-TODOS.mp3?rlkey=bg9furkrafe12ykjf37v6f7d4&st=sx4fhw9g&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "105 - ¡Noche de Paz! ¡Noche De Amor!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/6kdsvic4i5qqxi7mwtlsj/105-NOCHE-DE-PAZ-NOCHE-DE-AMOR.mp3?rlkey=ksyc4hhbo74xmgfnq1lsrkjo1&st=osw25yzf&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "106 - Dime La Historia de Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/qibcneacl0mhvhr0y7rg5/106-Dime-La-Historia-De-Cristo-16_9.pdf?rlkey=cizimn8dct5u83e72hvw5fyzh&st=65b2giuw&dl=0",
+                src: "https://www.dropbox.com/scl/fi/vf4kz15lr9vytpza3tv8q/106-DIME-LA-HISTORIA-DE-CRISTO.mp3?rlkey=ipter0anipu3ssvp4pt4nsz1r&st=qnc9pa0x&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "107 - Él Puede",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/14m6d3i2yvseczfx6kcwx/107-l-Puede-16_9.pdf?rlkey=cpxw4oubxqtmykh709q5wf9ll&st=yvjymq4g&dl=0",
+                src: "https://www.dropbox.com/scl/fi/16fvjx2npi8x6wmf2iupu/107-EL-PUEDE.mp3?rlkey=5h6bsu14oh15hhys1pgyhvb92&st=g6k2n82z&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "108 - ¡Dios Reina!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/o9zpx0p6zj7yzg9tv8hbj/108-DIOS-REINA.mp3?rlkey=bz7k4x21i8vxrw8aru79ts588&st=j4rpux8o&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "109 - Dichosos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/tuz22l74s1676hhgp1ej4/109-DICHOSOS.mp3?rlkey=jwnchgw47ifojlg91lfq1ho6j&st=acdsk3kt&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "110 - Del Oriente Somos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/s1hem7oxc20z9eq7f185c/110-DEL-ORIENTE-SOMOS.mp3?rlkey=lpnkz2jlatxyw1o2h1lxf1b7a&st=lwsv6yqi&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "111 - La Noticia Sin Igual",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/myf6tai1achjnv9jrj4ci/111-LA-NOTICIA-SIN-IGUAL.mp3?rlkey=yeu01r1uhdx1vkt2amt15t4e4&st=ycl6hxft&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "112 - Para Salvarnos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/s6aikzd9yza78v54cd8zi/112-PARA-SALVARNOS.mp3?rlkey=6zk4nby2cheuhy3vibawem04r&st=59yxhhpa&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "113 - Cristo, Te Adoramos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/yp24j3w2ew0tpvvx7pg1m/113-Cristo-Te-Adoramos-16_9.pdf?rlkey=j16bck2m9vt5ual22ylwensbn&st=c8b265jh&dl=0",
+                src: "https://www.dropbox.com/scl/fi/p99ntarrwve8mx6rpvhg9/113-CRISTO-TE-ADORAMOS.mp3?rlkey=intwqkcdg9wd5hy8sbu2co0ea&st=ka5ldrn0&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "114 - Confío Yo En Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/6ia1e9zvcab4uwlg045px/114-Conf-o-Yo-En-Cristo-16_9.pdf?rlkey=4pft8s553wwl61scib3k1udxt&st=5chg8qie&dl=0",
+                src: "https://www.dropbox.com/scl/fi/2knsc6hrnjyb5rxetfctq/114-CONFIO-YO-EN-CRISTO.mp3?rlkey=ctg5bxnv48eb6vc3f9pv7am47&st=hnezsi63&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "115 - Vivo Por Cristo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/8ox4bu5hvf93dcamh37xn/115-Vivo-Por-Cristo-16_9.pdf?rlkey=sssij3ts0bt0teukj1n2k171y&st=9e8e731k&dl=0",
+                src: "https://www.dropbox.com/scl/fi/2314giodsl41mlqv1vsqc/115-VIVO-POR-CRISTO.mp3?rlkey=tafsip96hz677b5qg13na956j&st=t8a0320x&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "116 - ¡Oh! Amor Que No Me Dejarás",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/5qkxsjqsdxgqbw1d8cmf0/116-Oh-Amor-Que-No-Me-Dejar-s-16_9.pdf?rlkey=9s9xo1xrir571vcgagzhlaaul&st=rnghtjgh&dl=0",
+                src: "https://www.dropbox.com/scl/fi/x324sqqabkemkon2m0yhc/116-OH-AMOR-QUE-NO-ME-DEJARAS.mp3?rlkey=p4dvuzny6o6en9egdqm4qcnld&st=mtyimhbb&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "117 - Rey De Mi Vida",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/16pqkxnwnzk9s1ov8mtm4/117-Rey-De-Mi-Vida-16_9.pdf?rlkey=snndgtzaf2pi5ke1si6d8322m&st=hsm4rcgi&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ml8o7k1y8c9oouc1a5n7i/117-REY-DE-MI-VIDA.mp3?rlkey=mu3p8v7kz22o17pac5l5of0n6&st=f95w5ir4&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "118 - Si No Hubiera Sido Por El Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/c0kcjl2r2q8zt4yu7mjop/118-Si-No-Hubiera-Sido-Por-El-Se-or-16_9.pdf?rlkey=rdcsytuw93vw4w2fqmbm58k77&st=ot2smpet&dl=0",
+                src: "https://www.dropbox.com/scl/fi/jp00o3h1nuobjq44xe20o/118-SI-NO-HUBIERA-SIDO-POR-EL-SE-OR.mp3?rlkey=vwzbo8fsne6fjheunv864f5yq&st=ju5lt0uu&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "119 - Gran Día De Victoria",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/3ewst2hgqspka8dve01bb/119-GRAN-DIA-DE-VICTORIA.mp3?rlkey=w4apgi2h5xvqcihjiq40dxo57&st=ivs6fgdn&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "120 - Dicen Que Viene Llegando",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/s93kky291du9hkkx1101h/120-Dicen-Que-Vienen-Llegando-16_9.pdf?rlkey=lercke0hifq40dkfjg7b4big7&st=1kiq5hca&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3ccfs7br3pllvwkrmq1mi/120-DICEN-QUE-VIENEN-LLEGANDO.mp3?rlkey=caxgdpaf8ce79c77w0cpdzqmz&st=goad0q0c&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
