@@ -1599,15 +1599,15 @@
         const projectButtonHtml = song.partitura 
             ? `<button class="action-list-btn stroke-icon project-btn-desktop" onclick="openProjection(event, ${index})" title="Proyectar Partitura">${iconProjectSvg}</button>` 
             : '';
-            
-        const downloadButtonHtml = isDownloaded 
-            ? '' 
-            : `<button class="action-list-btn" onclick="downloadSongFile(event, ${index})" title="Descargar MP3">${iconDownloadSvg}</button>`;
 
         // Si NO hay más opciones, no generamos el botón de 3 puntos
         const dotsButtonHtml = tieneMasOpciones 
             ? `<button class="action-list-btn more-options-btn" onclick="toggleOptionsMenu(event, ${index})" title="Opciones">${iconDotsSvg}</button>`
             : '';
+
+        const downloadButtonHtml = isDownloaded 
+            ? '' 
+            : `<button class="action-list-btn" onclick="downloadSongFile(event, ${index})" title="Descargar MP3">${iconDownloadSvg}</button>`;
 
         // Si hay más opciones, la descarga va al menú desplegable flotante de los 3 puntos. 
         // Si NO hay opciones, pasamos el botón de descarga directo al lado del corazón.
