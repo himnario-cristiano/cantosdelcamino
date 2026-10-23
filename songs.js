@@ -1771,6 +1771,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "161 - Mirad A Mí",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/wzn05xnin4xs1rmpo5nbg/161-Mirad-A-M-16_9.pdf?rlkey=7qzh8hznp884kvh218ykg1xtj&st=8ai3nijq&dl=0",
+                src: "https://www.dropbox.com/scl/fi/efqlg862uqryd14k2wjac/161-MIRAD-A-MI.mp3?rlkey=kvdoo6fkx2zok86d9vkbe0m2x&st=tc36yg9l&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "162 - Señor, Tú Me Llamas",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/dtqd2ve6od0ykqn3x13ul/162-SE-OR-TU-ME-LLAMAS.mp3?rlkey=lfako5x3t7dxe84n6giekoei1&st=2lawais4&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "163 - Ven Amigo A Jesús",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/aebcff8bkp8ftolvejgx6/163-VEN-AMIGO-A-JESUS.mp3?rlkey=q18cmdlvn29z5avxyapucmwu1&st=vuigcw59&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "164 - Sublime Gracia",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/irq7nnalevhmqwq9r5jcr/164-Sublime-Gracia-16_9.pdf?rlkey=7sikk6hum6tm3o5p4jfvsu0s3&st=abz36r71&dl=0",
+                src: "https://www.dropbox.com/scl/fi/59qp67zzya2ry32tmyo40/164-SUBLIME-GRACIA.mp3?rlkey=uf2ivin6cgwlz69ba17rfko1o&st=m0meovsp&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "165 - Dios Está Aquí",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/b99iavu46d9p6yuic9580/165-DIOS-ESTA-AQUI.mp3?rlkey=ar0epn35oq44vtrkmatd6ytvu&st=rar72rne&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "166 - Este Es El Dia",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/0te3tjqnl1sylgbhitjbt/166-Este-es-el-D-a-16_9.pdf?rlkey=rotbpuu6je2b9wcfbybr8ljd7&st=rjz9yaqf&dl=0",
+                src: "https://www.dropbox.com/scl/fi/it0gwhanhd80orrhn1zpn/166-ESTE-ES-EL-DIA.mp3?rlkey=p454rund2izvmqzvv0s4rozow&st=4z4dtwtz&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "167 - Huye Cual Ave A Tu Monte",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/tvdgj3bksw2scd5yn12o7/167-Huye-Cual-Ave-A-Tu-Monte-16_9.pdf?rlkey=b88k2ynjfot6004henjpy1kny&st=rzgraeev&dl=0",
+                src: "https://www.dropbox.com/scl/fi/cj66kunxafbabs1o57pep/167-HUYE-CUAL-AVE-A-TU-MONTE.mp3?rlkey=jruee7lhxvq7biijhz75eob0y&st=xohmk4fi&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "168 - Juan Vio El Número",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/t6stfcmo3zaf8v9c1mo6t/168-Juan-Vio-El-N-mero-16_9.pdf?rlkey=vwb23y5h6348pwth8w2wgiku0&st=8y3je8sa&dl=0",
+                src: "https://www.dropbox.com/scl/fi/5osi5dfo9dadgq2ma5c1k/168-JUAN-VIO-EL-NUMERO.mp3?rlkey=rlw5by1yt73uhr9qlepbnvbsz&st=912p2oky&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "169 - Tú Has Venido A La Orilla",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/oib7uw91hxf5hjfd0e25j/169-TU-HAS-VENIDO-A-LA-ORILLA.mp3?rlkey=i00dk423vd6ta0nwfl9orb250&st=jclrm081&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "170 - ¿Te Sientes Casi Resuelto Ya?",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/t9esen0tzyzmmmsp8zxyw/170-Te-Sientes-Casi-Resuelto-Ya-16_9.pdf?rlkey=gsxmv00mjym2sty17v2aby9j8&st=5umvjdxq&dl=0",
+                src: "https://www.dropbox.com/scl/fi/zinwo8vb5aqp6iwmphw3h/170-TE-SIENTES-CASI-RESUELTO-YA.mp3?rlkey=pf1yg55i9rj7yl34g6wzfyy72&st=439oj2j4&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
