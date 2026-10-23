@@ -3421,14 +3421,144 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
-            
-            
+            {
+                title: "311 - Cristo Me Ama",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/06f5je78mqchl6xuxo2nj/311-Cristo-Me-Ama-16_9-CC.pdf?rlkey=bgqb34nooupllpisn8t9073pv&st=kwlru292&dl=0",
+                src: "https://www.dropbox.com/scl/fi/39zm2t17lgl50ribmdff6/311-CRISTO-ME-AMA.mp3?rlkey=3baciyqig0hoidqtctat5e2cj&st=whsyofyv&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "312 - Cristo Tomo El Pan",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/bhequrmgrn9wgya17xttz/312-Cristo-Tom-El-Pan-16_9.pdf?rlkey=m9bae04ganckqhddam9mf8zqd&st=8b7umwir&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3en4jiads4rzhczh04iwh/312-CRISTO-TOMO-EL-PAN.mp3?rlkey=1wxptwybpybov4zs85lpj746i&st=yy92q34b&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "313 - Danos Un Bello Hogar",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/xanhg7e52ut2vfjvpxi9g/313-Danos-Un-Bello-Hogar-16_9.pdf?rlkey=724md97mjdlf9kcp9dbvoec9l&st=yp67jkip&dl=0",
+                src: "https://www.dropbox.com/scl/fi/gvz78avyleaafe8wb1ij1/313-DANOS-UN-BELLO-HOGAR.mp3?rlkey=vfbsn6gshyeo3tprq0tlwjw40&st=o5syhyj8&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "314 - Dios Os Guarde",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/3x1sen9qfgjn3lvkistmj/314-Dios-Os-Guarde-16_9-CC.pdf?rlkey=p4fyxbq8c546txjo2aso1xvid&st=f7dydstj&dl=0",
+                src: "https://www.dropbox.com/scl/fi/bz752785h5ppcoxz3293f/314-DIOS-OS-GUARDE.mp3?rlkey=64kl9gmdxoeyvqansbbv5ctg6&st=adi3a8gx&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "315 - El Sabio En La Roca",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/b838f37jhtw9k6x9kn882/315-El-Sabio-En-La-Roca-16_9.pdf?rlkey=0pns5yw7cphkr3gdogitejxqm&st=abtt2ppd&dl=0",
+                src: "https://www.dropbox.com/scl/fi/vha9rmufd2mxaaxauhngn/315-EL-SABIO-EN-LA-ROCA.mp3?rlkey=z0r6ecnb2iopcf8bh3hhyu1ao&st=ehpbkvc3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "316 - Principia Un Año Nuevo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/996wqqwfbqret7iorzy20/316-PRINCIPIA-UN-A-O-NUEVO.mp3?rlkey=f4sp3ife6tmfl0pebm1vost2s&st=hqsg8pfl&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "317 - Perfecto Amor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/bgdwb7fgz8xkgdttfp8zc/317-Perfecto-Amor-16_9.pdf?rlkey=k6i3lx55nr642yvlaydztavo6&st=so6yl68w&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3optkg073og1tr4idyrns/317-PERFECTO-AMOR.mp3?rlkey=npivbfbfft1al2gw0ei9pgqem&st=nspymemv&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "318 - Por Adentro Afuera",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/fkm7qnlvtd4gu94jsn30e/318-Por-Adentro-Afuera-16_9.pdf?rlkey=wdu8qwfkjjign3osx9iogv63p&st=qjo0hhoj&dl=0",
+                src: "https://www.dropbox.com/scl/fi/dh5d255qf504rukgmu0dg/318-POR-ADENTRO-AFUERA.mp3?rlkey=66vax5ne3ommic0iyratm97r0&st=at9wdedm&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "319 - Rey De Reyes",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/kjcs0hu3nxc9h0umxa5py/319-REY-DE-REYES.mp3?rlkey=1gagfwi8xkm3y7unr10vlq6oq&st=ujznhnk2&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "320 - Que Dios Te Bendiga",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ktzk6clqg36hoc8lr0a0j/320-Que-Dios-Te-Bendiga-16_9.pdf?rlkey=zmi3iqbewi19sbhcnees8ge5t&st=tnw9anp0&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ku1fbp14a10cy220t5ep8/320-QUE-DIOS-TE-BENDIGA.mp3?rlkey=2kjtkk6dqgnvdbq3pgkurh6pg&st=a85bc0w3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "321 - Ama Si Quieres Ser Feliz",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/utdd00q5qln2b28jneujl/321-Ama-Si-Quieres-Ser-Feliz-16_9.pdf?rlkey=3tydawyikx3fnc4w898tzp9s2&st=x1xwxjyw&dl=0",
+                src: "https://www.dropbox.com/scl/fi/hhpcsn5wzg1ujwke1iy4m/321-AMA-SI-QUIERES-SER-FELIZ.mp3?rlkey=hcanxdjm21ceykusd7sjp567u&st=j81ogumq&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "322 - Él Es El Rey De Reyes",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/hpoz5jn1gk51ap8vj0xwg/322-l-Es-El-Rey-De-Reyes-16_9.pdf?rlkey=3u29l9q4xvyh9a79pdxw34haa&st=3ki3pkzc&dl=0",
+                src: "https://www.dropbox.com/scl/fi/xi2v2ghi8rql8h6ykjwdz/322-EL-ES-EL-REY-DE-REYES.mp3?rlkey=r09pyx9zkl0lyqg5bzgpivd2y&st=xa6jwgh2&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             {
                 title: "323 - Cristo En El Hogar",
                 artist: "Cantos Del Camino",
                 temas: [],
 				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
-        		partitura: "",
+        		partitura: "https://www.dropbox.com/scl/fi/wq8b9xsl2xha7o57vlgoc/323-Cristo-En-El-Hogar-16_9.pdf?rlkey=m0htmxupnr1z33urx6vfn4do0&st=8vjx3d7h&dl=0",
                 src: "https://www.dropbox.com/scl/fi/313vijrrhdns3qxnhw65m/323-CRISTO-EN-EL-HOGAR.mp3?rlkey=kpn99iw8jgvdzyeso4sdvzsdl&st=lnsmcp6s&dl=0",
                 references: [
 					
