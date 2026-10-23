@@ -1881,6 +1881,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "171 - Maravillosa Gracia",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/rxjkczmelrip2krymetqo/171-Maravillosa-Gracia16_9.pdf?rlkey=slyzj8sn5jdavgx4cu4n0uc9n&st=ufzdrqio&dl=0",
+                src: "https://www.dropbox.com/scl/fi/usut4i17ahf52r0zurrku/171-MARAVILLOSA-GRACIA.mp3?rlkey=md4wkh4n7yt9pi3wh5if6vfrc&st=vh8muynd&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "172 - Quieres Ser Salvo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/2j9gnjiqj1eqrrb7gyyeb/172-Quieres-Ser-Salvo-16_9.pdf?rlkey=a27rw3y9h5o5tqg3ju8928cvg&st=t98ix9et&dl=0",
+                src: "https://www.dropbox.com/scl/fi/zbf23obf276vt2r49qf2r/172-QUIERES-SER-SALVO.mp3?rlkey=r9hrot7rkapp5qesg7uw2ekhl&st=c31djwqs&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "173 - Sin Cristo No Tengo Nada",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/kl3y27wd8kcv82q47u8nj/173-SIN-CRISTO-YO-NO-TENGO-NADA.mp3?rlkey=5opkh8tqxehapg3nqhisidoyw&st=f5y5r8qr&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "174 - Oh Dios Eterno",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/0tj12grh5ie22obgv8dv3/174-Oh-Dios-Eterno-16_9.pdf?rlkey=9aszxbakd3rr72tlhd4samgrw&st=l5ljbxzy&dl=0",
+                src: "https://www.dropbox.com/scl/fi/eiuowyp7tpum6y6pz9nop/174-OH-DIOS-ETERNO.mp3?rlkey=rmesah1rof3vse10obs3ras7c&st=6edbbpps&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "175 - Tengo Libertad",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/escuszsfe2sm928nf33u3/175-Tengo-Libertad-16_9.pdf?rlkey=butffyvdm9uhmgc6iawmy4nir&st=80bxz5k9&dl=0",
+                src: "https://www.dropbox.com/scl/fi/5qt3j48cutacbxaxksvdh/175-TENGO-LIBERTAD.mp3?rlkey=z4ajnu3p7wuqd472oa32fa29c&st=fheqe49f&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "176 - Ven Pecador",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/4hn7vg8sapbjlljybumtw/176-Ven-Pecador-16_9.pdf?rlkey=ddcci1v6qjoptish2j53o34a3&st=508otudq&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3nyxchkvlcylaz0ds9v2b/176-VEN-PECADOR.mp3?rlkey=ubxy3oupq8rrlmhs90mrqxi5l&st=374d4tm3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "177 - Lejos De Mi Padre Dios",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/q0pj1bxpv30cmqsncugfp/177-Lejos-De-Mi-Padre-Dios-16_9.pdf?rlkey=mcl4s3zf5edioqzclyovvjpmb&st=4xokcnvk&dl=0",
+                src: "https://www.dropbox.com/scl/fi/6nq7bhc3crccpwhu38hpk/177-LEJOS-DE-MI-PADRE-DIOS.mp3?rlkey=jaafq6zwxzjqxii2y07wv6f79&st=63as0spe&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "178 - Alguien Está A Mi Puerta",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/904fw5g7vbqee576tot1t/178-ALGUIEN-ESTA-A-MI-PUERTA.mp3?rlkey=gbtnuw5mo8ucxlr9b0a8g10r3&st=3pp3era7&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "179 - Roca De La Eternidad",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/1icpclt0hmmj2zl7pfr0f/179-Roca-De-La-Eternidad-16_9.pdf?rlkey=b0z99gucy9unxzi2mxjpsysfh&st=s0ueaae2&dl=0",
+                src: "https://www.dropbox.com/scl/fi/82rahf4z985dvgs8eq8f2/179-ROCA-DE-LA-ETERNIDAD.mp3?rlkey=xpfd8gs4etze98jj5mow2vc1p&st=8i8u2j8u&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "180 - Hoy Venimos Cual Hermanos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/j1ldav8oea4bgigvykq7h/180-Hoy-Venimos-Cual-Hermanos-16_9.pdf?rlkey=x4sof7l94u01jh1u75fni69kv&st=5t8m20qs&dl=0",
+                src: "https://www.dropbox.com/scl/fi/35kdquc6sg2ip8ab911pa/180-HOY-VENIMOS-CUAL-HERMANOS.mp3?rlkey=migqzu23gb55buccdrclelkli&st=2ib4j1v3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
