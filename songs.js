@@ -3091,6 +3091,116 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "281 - Dios Es Nuestro Amparo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/n1x3xz4hqzwbpon22ixn1/281-Dios-Es-Nuestro-Amparo-16_9.pdf?rlkey=vlrvsvt9stqax05ntf44zwuni&st=cvdqoj0m&dl=0",
+                src: "https://www.dropbox.com/scl/fi/i9r57ygdfwqaj34hac503/281-DIOS-ES-NUESTRO-AMPARO.mp3?rlkey=ti013te52i907ptblvkqjsbxc&st=8weprcdu&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "282 - Entre El Vaivén De La Cuidad",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/xa809vbyijfcnqlbh1h5h/282-Entre-El-Vaiv-n-De-La-Cuidad-16_9.pdf?rlkey=moehmhm1tlwoma87e2ysqs635&st=aojp928p&dl=0",
+                src: "https://www.dropbox.com/scl/fi/str1ldtr1oyv44ii16nvn/282-ENTRE-EL-VAIVEN-DE-LA-CIUDAD.mp3?rlkey=vyrw1l4w2vbfyltreslkxr94r&st=w81fh89e&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "283 - Lugar Hay Donde Descansar",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/71k63thw7x9xqt3w8c9ml/283-Lugar-Hay-Donde-Descansar-16_9.pdf?rlkey=v7iuixvkmggoyvey4fdlgmfpz&st=up4gvyat&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ytp7k2t0mzutwpu8evjnp/283-LUGAR-HAY-DONDE-DESCANSAR.mp3?rlkey=2cjgkbf39oyylo4loen0iqlpr&st=hn8ft5li&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "284 - Señor, Quién entrará",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/pwfko3wlf2mhz95di9dh6/284-Se-or-Qui-n-Entrar-16_9.pdf?rlkey=agtmns85f2nc4mx9qqai2lfpk&st=5c9dp4su&dl=0",
+                src: "https://www.dropbox.com/scl/fi/7n08l1v48rnj1af0twhdy/284-SE-OR-QUIEN-ENTRARA.mp3?rlkey=j7ueofvt4xor4uck70ijbqj94&st=94y3jyvr&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "285 - Vamos A Sembrar",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/amkk1y4rsi2j11b1x5fnb/285-Vamos-A-Sembrar-16_9.pdf?rlkey=x2vyrinccml9yoiuqra069fx8&st=izu1e997&dl=0",
+                src: "https://www.dropbox.com/scl/fi/n6t4ugs7z139vtpmf8rpw/285-VAMOS-A-SEMBRAR.mp3?rlkey=7o3s3edtdiwr36by349lar86v&st=nxykilbw&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "286 - Elevemos Al Creador",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/p2bwbonwqzj89c4h37xr2/286-Elevemos-Al-Creador-16_9.pdf?rlkey=fxfzxz1ew9zltsz7z0p4mlfn2&st=d21j78i8&dl=0",
+                src: "https://www.dropbox.com/scl/fi/eibksgtpcaa2xpprj1wea/286-ELEVEMOS-AL-CREADOR.mp3?rlkey=2g9gtsap320sxmaxd79agiut7&st=emzstcd3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "287 - En Busca De Obreros",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/5qjuaa1jk62d11hp4j2i8/287-En-Busca-De-Obreros-16_9.pdf?rlkey=txkguh1edef9wt2zd0p5gfjnm&st=o563o29g&dl=0",
+                src: "https://www.dropbox.com/scl/fi/h6nbkvmsa8vbs9h84cw7d/287-EN-BUSCA-DE-OBREROS.mp3?rlkey=ofi7h2sd3q76ba63tgvh4hwyk&st=pymrtqa4&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "288 - Quiero Cantar Una Linda Canción",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/n1oj2xc2itia63sidntpt/288-Quiero-Cantar-16_9.pdf?rlkey=d0eug7ycryotiot52icoc52fd&st=f6ng1df7&dl=0",
+                src: "https://www.dropbox.com/scl/fi/kk9nvju0u5f6bwg0pwgxn/288-QUIERO-CANTAR.mp3?rlkey=bp3oefn53ifoe85flvuk5ruiy&st=u7ighskl&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "289 - Tienen Que Saber",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/jqtqbq05g0gn98n8ywt70/289-TIENEN-QUE-SABER.mp3?rlkey=7sbn2hbkq20xscfyrnmbadpwy&st=o0ksc1rz&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "290 - Ama A Tus Prójimos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/xjzbyw6lv1ztkp1vs74fi/290-Ama-A-Tus-Pr-jimos-16_9.pdf?rlkey=30u37y96c6dozktncp5o0kfz5&st=b19bkn3s&dl=0",
+                src: "https://www.dropbox.com/scl/fi/cjvqrk5ixr7fn7lj0ivdg/290-AMA-A-TUS-PROJIMOS.mp3?rlkey=cbpxzympszvskqiyrzen4h2zf&st=eiq7ar40&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
