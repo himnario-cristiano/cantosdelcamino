@@ -2761,6 +2761,336 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "251 - Haz Lo Que Quieras",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/jqbqbtqkhn2vxx7wtv3g2/251-Haz-Lo-Que-Quieras-16_9.pdf?rlkey=qc50ch964bfsbiau3jmhdit9o&st=8zoomyp7&dl=0",
+                src: "https://www.dropbox.com/scl/fi/qbbngj90lzpbe97uj7399/251-HAZ-LO-QUE-QUIERAS.mp3?rlkey=vtf027v79wy54ttjioxa0i0af&st=kl8k2qr3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "252 - Jesús, Del Hombre Hijo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/5pilevvkosn3c6zd6hf4z/252-Jes-s-Del-Hombre-Hijo-16_9.pdf?rlkey=5mn8jraggz9gv18w07jzo0wtd&st=m8styiiw&dl=0",
+                src: "https://www.dropbox.com/scl/fi/0oou8quwm356z60qay1fk/252-JESUS-DEL-HOMBRE-HIJO.mp3?rlkey=ynrg098y4usrbmoggobzd6y5c&st=i9bj4s76&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "253 - Jesús Yo He Prometido",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/1x8hgyk6mn90nzyus4f2b/253-Jes-s-Yo-He-Prometido-16_9.pdf?rlkey=2nm6g36shfurd3fbjmxqzwo61&st=tb1qn3m1&dl=0",
+                src: "https://www.dropbox.com/scl/fi/irzbqx2ixuw8hec8x2wcx/253-JESUS-YO-HE-PROMETIDO.mp3?rlkey=0t9pakbuuqqfe63n7zwrafay1&st=0da4oeu9&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "254 - Oh, Cristo Mío",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/a7jk02ejnw99dyoebu7s7/254-Oh-Cristo-M-o-16_9.pdf?rlkey=g61z5ps71867k7gm6lcesi2sb&st=f0dyps0l&dl=0",
+                src: "https://www.dropbox.com/scl/fi/hqmc5ayfa2broyzcj9vdx/254-OH-CRISTO-MIO.mp3?rlkey=d47cy211ycbz4goqorx7m2m90&st=ccmx3b8z&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "255 - Abre Mis Ojos",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/fkxuv60u2ae0ft9qha8x4/255-ABRE-MIS-OJOS.mp3?rlkey=vyynlspjwxkrk91bh9wapmg1o&st=kmg3gono&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "256 - La Batalla Es Del Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/gs9o6x8ytoowbejn2vdtu/256-LA-BATALLA-ES-DE-NUESTRO-SE-OR.mp3?rlkey=ebp8dvlq3wdpxvw9wocixgh7z&st=tsd7f2lo&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "257 - Jehová, Omnipotente Dios",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ozgng7zfz78557nuytcku/257-Se-or-Jehov-Omnipotente-Dios-16_9.pdf?rlkey=4w3mtenad0vnx4hx86hkss270&st=zcfc6o9a&dl=0",
+                src: "https://www.dropbox.com/scl/fi/w52ydthqj39qoijrhssro/257-SE-OR-JEHOVA-OMNIPOTENTE-DIOS.mp3?rlkey=2a39igmoo1x4qszwsox02q02r&st=29vpdekk&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "258 - Abre Mis Ojos A La Luz",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/h2bezs1l0eoqsgli6159c/258-Abre-Mis-Ojos-A-La-Luz-16_9.pdf?rlkey=b6ab5qjh6u8ri98a4xi532hv6&st=zaxtvwrs&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ajkxy4538p7dgryvnhwfu/258-ABRE-MIS-OJOS-A-LA-LUZ.mp3?rlkey=2aoh81m3itke8ljvyumf63ukg&st=5ef2fblu&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "259 - Contigo Cristo Quiero Andar",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/hilflequ92nqghsc0s2ve/259-Contigo-Cristo-Quiero-Andar-16_9.pdf?rlkey=3tfuugb1gvxubjs0rpk8jzle8&st=joipgnd7&dl=0",
+                src: "https://www.dropbox.com/scl/fi/3vbcah88cxby1o1prg9ad/259-CONTIGO-CRISTO-QUIERO-ANDAR.mp3?rlkey=vxwolee4dzye2e4i69te12jqs&st=yc97nppr&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "260 - Límpiame Dios El Corazón",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/au3d98e5axanbmt0kw5hv/260-L-mpiame-Dios-El-Coraz-n-16_9.pdf?rlkey=9vau7pn7wnfnyl72nm6hasg12&st=kg3311tn&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ylcrbjrhfg993hqx36mdy/260-LIMPIAME-DIOS-EL-CORAZON.mp3?rlkey=od9k9clr4nq6f5zf3enencnjt&st=4oeyz2qo&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "261 - Más De Jesús Deseo Aprender",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/qc72aot2huq5hf1ibxr2a/261-M-s-De-Jes-s-Quiero-Aprender-16_9.pdf?rlkey=ec8srxc89eapm7c6oyaoxjwpd&st=6k0ibm8j&dl=0",
+                src: "https://www.dropbox.com/scl/fi/rl6am1zu0vkxq8a781ynk/261-MAS-DE-JESUS-QUIERO-APRENDER.mp3?rlkey=6cvss02epofale732qto2nnzj&st=jtty2wik&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "262 - Acuérdate De Tu Creador",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/uj7v9ged419gt5octm51i/262-ACUERDATE-DE-TU-CREADOR.mp3?rlkey=48xoe3ggh0r5qqzgxah0okqsk&st=7pkib3ux&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "263 - Más Santidad Dáme",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/u4re4hj8kku85cns55pfm/263-M-s-Santidad-D-me-16_9.pdf?rlkey=uisun6emyrh5k8i3pu5lj2vei&st=mmujvrry&dl=0",
+                src: "https://www.dropbox.com/scl/fi/dgl04wefiqcuathonsae5/263-MAS-SANTIDAD-DAME.mp3?rlkey=sawcff1g9eq0fsrdv6m61nbb6&st=w8547gix&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "264 - Me Guía Él",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/a0a6wyq3zefydhwbk0he2/264-Me-Gu-a-El-16_9-CC.pdf?rlkey=rtmw9ek9kz77r8e53x5aryt2f&st=xisv0b1o&dl=0",
+                src: "https://www.dropbox.com/scl/fi/2liuqgf0ayexz6stukv33/264-ME-GUIA-EL.mp3?rlkey=ouzktuee4zub9e9khk0v0dylq&st=tpx9p5gn&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "265 - Mi Corazón Examina Hoy Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/y6y5lp4s1ljl9f7qm556i/265-Mi-Coraz-n-Oh-Examina-Hoy-16_9.pdf?rlkey=h0062vs6ljsmcnkvn3dr8q4mp&st=uy3k9oqe&dl=0",
+                src: "https://www.dropbox.com/scl/fi/f2orvqxxa2w7pd5n6epi8/265-MI-CORAZON-OH-EXAMINA-HOY.mp3?rlkey=wsm3weot8qt3mbtovuc2usc2e&st=o9wr5nod&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "266 - Mi Refugio Eres Tú",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/9wylui7wuz18vypvtupdh/266-MI-REFUGIO-ERES-TU.mp3?rlkey=xt03506lgylx7efwjom6pnyeq&st=l9ni2d1m&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "267 - Mirarte Sólo A Tí, Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/54dsp94fu048auerftx70/267-Mirarte-S-lo-A-Ti-Se-or-16_9.pdf?rlkey=1tuo35iq3sdc5v0qj9cmluuj7&st=0kirrb0t&dl=0",
+                src: "https://www.dropbox.com/scl/fi/qftn3wgvwdohxeh23ejg4/267-MIRARTE-SOLO-A-TI-SE-OR.mp3?rlkey=5kdkdy24gi2j76vz9o3488pz1&st=y6la59mc&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "268 - Da Una Sonrisa Más",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/z2fan0cy1wanrigj7ul9m/268-Da-Una-Sonrisa-Mas-16_9.pdf?rlkey=z5gxgch9d9uzz02q18c1jb3fs&st=zbc82tma&dl=0",
+                src: "https://www.dropbox.com/scl/fi/pqrvyzdquyw5t0hnufx39/268-DA-UNA-SONRISA-MAS.mp3?rlkey=c6n2af6hvf91j6a1imcmng15y&st=iinph85m&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "269 - Jesucristo Conmigo Va",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/qkikulwtghy2jtgecsoot/269-Jesucristo-Conmigo-Va-16_9.pdf?rlkey=hwi0ywu4aoz5osew6jq9xoybe&st=ahz6eh0k&dl=0",
+                src: "https://www.dropbox.com/scl/fi/lgc3mi6kykwq2lx9u9ryu/269-JESUCRISTO-CONMIGO-VA.mp3?rlkey=fcqsokra8cmowwg1wu744trp6&st=fq98f3rx&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "270 - Nunca Desmayes",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/yvv4jpetytjvjm0ls9idr/270-Nunca-Desmayes-16_9.pdf?rlkey=8xou6w2yn4ht9t3uib7dq7ejl&st=1b3n2mbu&dl=0",
+                src: "https://www.dropbox.com/scl/fi/75f6yymnlanemwpbj7d28/270-NUNCA-DESMAYES.mp3?rlkey=0hwvexyx01i6m1o27ccejfy7i&st=62zoonlc&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "271 - ¡Oh Cristo! Tu Ayuda Yo Quiero Tener",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/g71bulijwtfvvqrci27d4/271-Oh-Cristo-Tu-Ayuda-Yo-Quiero-Tener-16_9.pdf?rlkey=7nsbc2nwkuca987r7ts8rjg6s&st=dp15ugeo&dl=0",
+                src: "https://www.dropbox.com/scl/fi/xaq9atuyx7t2c7i0shob9/271-OH-CRISTO-TU-AYUDA-QUISIERA-TENER.mp3?rlkey=0ysfilfy1c7fvmt0zwjmlrda4&st=bxw4qzbw&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "272 - Oh Dios, Sé Mi Visión",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/mbl7ztsvxxluyizu8pr4z/272-Oh-Dios-S-Mi-Visi-n-16_9.pdf?rlkey=f63d87zwemlraftovs5ygier9&st=3baz6my9&dl=0",
+                src: "https://www.dropbox.com/scl/fi/vst3yxn7bpxtumxomqy5v/272-OH-DIOS-SE-MI-VISION.mp3?rlkey=hpw2e0qv6bsce9p2h5gcqo0er&st=15emnuyd&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "273 - ¡Oh, Que Amigo Nos Es Cristo!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/qex49385t13es19307iyo/273-Oh-Qu-Amigo-Nos-es-Cristo-16_9.pdf?rlkey=a8aygg2diimkfcorirbllv7wa&st=qcwwunu2&dl=0",
+                src: "https://www.dropbox.com/scl/fi/a5k4dnwthg9ph74zhfo7x/273-OH-QUE-AMIGO-NOS-ES-CRISTO.mp3?rlkey=6hk3gn09u4ag5clrpahw6q275&st=xwu2x7a5&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "274 - ¿Por Qué Se Preocupa El Hombre?",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/kehxbg6utxjtcg9gg5ucq/274-Por-Qu-Se-Preocupa-El-Hombre.pdf?rlkey=0lv0uaa7gw956h9ea2gg1d1qb&st=hc0i2vms&dl=0",
+                src: "https://www.dropbox.com/scl/fi/hyx9ng1axru8hkdg15lng/274-PORQUE-SE-PREOCUPA-EL-HOMBRE.mp3?rlkey=42513d7cblkqgsytkvvj01ex0&st=cctsnhbo&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "275 - Omnipotente Pare Dios",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/9mysr93eaieqosqt9b4a0/275-Omnipotente-Padre-Dios-16_9.pdf?rlkey=b8n8yxrj6aeo7fhjq9choztpx&st=eg7mnuhu&dl=0",
+                src: "https://www.dropbox.com/scl/fi/6zhgb0qztbo3eexi2fshp/275-OMNIPOTENTE-PADRE-DIOS.mp3?rlkey=vckgj1kv53zu9264q5z8hudjo&st=fm0kp1rp&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "276 - Sendas Dios Hara",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/jh5y9mncye63amafb1nps/276-SENDAS-DIOS-HARA.mp3?rlkey=eo5ahj43mk4vwshcpv969245r&st=0u0iirou&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "277 - Sigue El Camino",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/dqflsrwbyixhp6gfj4uys/277-Sigue-El-Camino-16_9.pdf?rlkey=5e1xkj5q1ylg9dad2mspzj1bp&st=s8pqqyp7&dl=0",
+                src: "https://www.dropbox.com/scl/fi/q41ks1hkzj9nv9fyucdlj/277-SIGUE-EL-CAMINO.mp3?rlkey=l41h99ktv757h6xx7lzvxvxxe&st=tqxzffc3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "278 - Te Necesito Ya",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/g7sk1zub356i35dh8h8j0/278-Te-Nesito-Ya-16_9.pdf?rlkey=3qlbxhcsgkfiqs4g8v819omvl&st=geotl74w&dl=0",
+                src: "https://www.dropbox.com/scl/fi/z2aml0d7ondhu50zav3hj/278-TE-NECESITO-YA.mp3?rlkey=genuk9k30scgxmbvjkqj48cbo&st=oe58et0b&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "279 - Tu Gozo, Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/gqdveqydf2p7pc5kusmyr/279-TU-GOZO-SE-OR.mp3?rlkey=3f7pvcraa3tfscrmeqmmb7vjq&st=dxkx3q9z&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "280 - Canción del Perdón",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/go80zj4alqguws3ac0nho/280-Canci-n-Del-Perd-n-16_9.pdf?rlkey=9ur02upyf2kma0uu2dzzt3ewz&st=jal7il1y&dl=0",
+                src: "https://www.dropbox.com/scl/fi/k50tj078dhww0cg8j9g1t/280-CANCION-DEL-PERDON.mp3?rlkey=7ad4fs9vdjtgrrbt7mhx5zpu6&st=nlseeynd&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
