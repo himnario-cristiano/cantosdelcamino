@@ -3201,6 +3201,226 @@
 					
                 ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
             },
+            {
+                title: "291 - Cuando Cristo Vino",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ylxyviw9rzmitukkl3qja/291-Cuando-Cristo-Vino-16_9.pdf?rlkey=su078zl3s3oxu1wvzxsqxlq8v&st=jsm6bf1g&dl=0",
+                src: "https://www.dropbox.com/scl/fi/9jrzb8vf766yfm6x0tdil/291-CUANDO-CRISTO-VINO.mp3?rlkey=751tklfve2qd6rf88fivyhin8&st=tmmlsia0&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "292 - Sembraré La Simiente Preciosa",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/2kitbltsygm3gee8sk4na/292-Sembrar-La-Simiente-16_9.pdf?rlkey=8klgmips3kfuorf42o0nl4q2a&st=z0kyv9f8&dl=0",
+                src: "https://www.dropbox.com/scl/fi/ei8yi0bxcfjxbjnwvn1y7/292-SEMBRARE-LA-SIMIENTE-PRECIOSA.mp3?rlkey=rbvyl7edrxinmo7n4q70vdne8&st=6klg6gsj&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "293 - Jesús Me Ama",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/u3bq363vnor67xgorymdc/293-JESUS-ME-AMA.mp3?rlkey=r81m94iydmlnr6y1lu4idvll9&st=90ekwc05&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "294 - Enviame Señor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/cazqvstwepndwsysfgn5m/294-ENVIAME-SE-OR.mp3?rlkey=fw3vwb8ggkg4jptxkcrypdgzw&st=le8kglfv&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "295 - No Te De Temor",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/8v1gbdf7rjmclmbb4ae5g/295-No-Te-D-Temor-Hablar-Por-Cristo-16_9.pdf?rlkey=xf1ddru1kuhxmowmob3iidosp&st=zwbho3dt&dl=0",
+                src: "https://www.dropbox.com/scl/fi/kpgfvkxqib3t8ur3vkscg/295-NO-TE-DE-TEMOR-HABLAR-POR-CRISTO.mp3?rlkey=au8izvkqyi7vbnhw42fvnzs9k&st=mml77eei&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "296 - Sal De La Tierra Y Luz Del Mundo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/cuvf5fwzqustchua81ylo/296-Sal-De-La-Tierra-Y-Luz-Del-Mundo-16_9.pdf?rlkey=n3wzc5imsccb9rgqmm7diohsw&st=y9wmkqeh&dl=0",
+                src: "https://www.dropbox.com/scl/fi/btcrehfi7lrn301vtgp9j/296-SAL-DE-LA-TIERRA.mp3?rlkey=8eqdorkv3vg0bv23luoedoebl&st=a8hwi108&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "297 - Cantare La Bella Historia",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/0zjeuq418rqmcrmqp6g76/297-Cantar-La-Bella-Historia-16_9.pdf?rlkey=v6eubuzci40c1pxv2f31zr6iv&st=5mz0lkrz&dl=0",
+                src: "https://www.dropbox.com/scl/fi/xlvqgloa82q4iizv0661m/297-CANTARE-LA-BELLA-HISTORIA.mp3?rlkey=vga2ddyg4rg40f3w874ge9x7z&st=wisro9b3&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "298 - Salgamos, Fieles, A Anunciar",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/tg62lw7y22fq0rmytnvp1/298-Salgamos-Fieles-A-Anunciar-16_9.pdf?rlkey=6unn4062ecgxl1h1vis50s3np&st=kx0pamu3&dl=0",
+                src: "https://www.dropbox.com/scl/fi/jahtjcdn2ehsu1vn5ydzd/298-SALGAMOS-FIELES-A-ANUNCIAR.mp3?rlkey=k2mrvd47h6a0kea1n3jjnmhao&st=rrcurnrn&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "299 - ¡Oh Cristo De Infinito Amor!",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/38nz9bbwsnmhfctgzh4oo/299-Oh-Cristo-De-Infinito-Amor-16_9.pdf?rlkey=7nrqzyrcao4grl3t8yoehen3i&st=xnsq1ifu&dl=0",
+                src: "https://www.dropbox.com/scl/fi/vapa6qvtt6h0w8cgawjfg/299-OH-CRISTO-DE-INFINITO-AMOR.mp3?rlkey=r4cpirhjzl6i3kpci14iz6kk8&st=pdbhd2br&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "300 - Haz Arder Mi Alma",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/ntg61oe9ne2nk9kpq1paf/300-HAZ-ARDER-MI-ALMA.mp3?rlkey=nwllllxjhs38uq3p0rbxep87n&st=a636pzr1&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "301 - Oh Cumple tu ministerio",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/hxwhc7v2lxjs36dq0k7yd/301-OH-CUMPLE-TU-MINISTERIO.mp3?rlkey=vmi17dqdeh6cori0lha5bth8u&st=pszww616&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "302 - Hallé Un Buen Amigo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/vzbvy5oxvzypbi5337bsk/302-Grandes-Cosas-Cristo-Ha-Hecho-Para-M-16_9.pdf?rlkey=b8c5n59gco4narzkpvy1eg7nb&st=l8ovh2ww&dl=0",
+                src: "https://www.dropbox.com/scl/fi/mgphxutrol7rdbxrkvt91/302-HALLE-UN-BUEN-AMIGO.mp3?rlkey=omusi12wbvd79m0quw4liysmc&st=3o559t20&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "303 - Oriente Ni Occidente",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/sgd1r570oaudvt0g1107s/303-Oriente-Ni-Occidente-16_9.pdf?rlkey=3bor6ur0xohxw5pkbif2l7bcs&st=fgkc124e&dl=0",
+                src: "https://www.dropbox.com/scl/fi/wabnxadfge298aa2dum35/303-ORIENTE-NI-OCCIDENTE.mp3?rlkey=8prfogkks9w6j8bxs2qye7gym&st=ae8fjxp7&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "304 - Andan Procurando",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/2bs1lok8kobcv9zc4i7xh/304-Andan-Procurando-16_9.pdf?rlkey=2h7gr3q21rarnkk2pcb1h4kda&st=sgzafwxq&dl=0",
+                src: "https://www.dropbox.com/scl/fi/50zsiryusvesstndpzrlm/304-ANDAN-PROCURANDO.mp3?rlkey=x850qva4u0t87qx895n2vssge&st=u64wt84y&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "305 - Heme Aquí",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/5dme8x0g0vrjqkn5wzqkg/305-HEME-AQUI.mp3?rlkey=olfrc27wzstw7qcm3fhhl0x28&st=z4sih6o7&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "306 - Zambita Del Cristo Vivo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "",
+                src: "https://www.dropbox.com/scl/fi/eh2c7ucqakxrlcf7vtgbl/306-CANCION-DEL-CRISTO-VIVO.mp3?rlkey=7tkmq4f0wsif204qaz6txgssh&st=c272ktyh&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "307 - Mi Esperanza Firme Está",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/4wikw5e99x1joeubxiiur/307-Mi-Esperanza-Firme-Est-16_9.pdf?rlkey=c2s13qdfs27l8bt1i0k3dqcsz&st=novdo3i2&dl=0",
+                src: "https://www.dropbox.com/scl/fi/737q5xjyddktrltsvvwrs/307-MI-ESPERANZA-FIRME-ESTA.mp3?rlkey=b3rfswrmirivlmb6m8neq41dx&st=53hp5eg0&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "308 - Oh Nuestro Padre, Ahora",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/ettb08u794mk6ina876c6/308-Nuestro-Padre-Ahora-16_9.pdf?rlkey=22ie2rbdhat1ncf3zgx3nule4&st=bwfreysc&dl=0",
+                src: "https://www.dropbox.com/scl/fi/98c5z1qcp43pbzfkgvbzy/308-OH-NUESTRO-PADRE-AHORA.mp3?rlkey=378yu9p0drlz7lr2c9yw8dbpe&st=147iy9fj&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "309 - Es Cristo El Amigo De Niños",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/tzblcc0t3zxzcuan0dqvp/309-Es-Cristo-El-Amigo-De-Ni-os-16_9.pdf?rlkey=9nnt00ltg6mvc8b4071vso0ht&st=ww4kt663&dl=0",
+                src: "https://www.dropbox.com/scl/fi/7se7lzt6ixsw9wm828m3e/309-ES-CRISTO-EL-AMIGO.mp3?rlkey=6wle24ojsorr9uk9hkv8ppbj7&st=qav16qkl&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
+            {
+                title: "310 - Cristo Es Amigo",
+                artist: "Cantos Del Camino",
+                temas: [],
+				// ¡NUEVO!: Añade aquí el enlace a tu imagen o tu PDF. 
+        		partitura: "https://www.dropbox.com/scl/fi/v86nuay9f7ak8stq242uk/310-Cristo-Es-Amigo-16_9.pdf?rlkey=nb4l43p5gusf8moeg9gwpewgl&st=906s1u23&dl=0",
+                src: "https://www.dropbox.com/scl/fi/t0b50ii4ah3loq19ak6va/310-CRISTO-ES-AMIGO.mp3?rlkey=t0muhzx1cjfhay1ke7dm3q02z&st=chs95rqr&dl=0",
+                references: [
+					
+                ] // {hymnal: "himnario ...", number: "00"} Array vacío si no hay referencias
+            },
             
             
             {
