@@ -1,5 +1,5 @@
 {
-  "name": "Cantos Del Camino",
+  "name": "Cantos Del Camino", 
   "short_name": "Cantos Del Camino",
   "description": "Reproductor del himnario Cantos Del Camino",
   "start_url": "./index.html",
