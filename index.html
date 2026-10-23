@@ -836,9 +836,12 @@
         function applyTheme(theme) {
             root.setAttribute('data-theme', theme);
             themeIcon.innerHTML = theme === 'dark' ? iconSun : iconMoon;
+            
+            // Esto actualiza dinámicamente el color de la barra superior e inferior del celular
             const metaThemeColor = document.querySelector('meta[name="theme-color"]');
             if(metaThemeColor) {
-                metaThemeColor.setAttribute("content", theme === 'dark' ? "#000021" : "#F8FAFC");
+                // #00002F es tu fondo oscuro, #F1F5F9 es tu fondo claro
+                metaThemeColor.setAttribute("content", theme === 'dark' ? "#00002F" : "#F1F5F9");
             }
         }
 
